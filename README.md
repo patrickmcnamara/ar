@@ -16,4 +16,4 @@ Run `go get -u github.com/patrickmcnamara/ar`.
 
 # License
 
-This project is licensed under the GNU General Public License v3.
+This project is licensed under the GNU General Public License v3.0.
