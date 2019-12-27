@@ -3,7 +3,7 @@
 ![latest version](https://img.shields.io/github/v/tag/patrickmcnamara/ar?label=latest%20version)
 ![last commit](https://img.shields.io/github/last-commit/patrickmcnamara/ar)
 ![top language](https://img.shields.io/github/languages/top/patrickmcnamara/ar)
-![licence](https://img.shields.io/github/license/patrickmcnamara/ar?label=licence)
+![license](https://img.shields.io/github/license/patrickmcnamara/ar?label=license)
 
 Ar implements access to ar archives for Go.
 
@@ -16,4 +16,4 @@ Run `go get -u github.com/patrickmcnamara/ar`.
 
 # License
 
-This project is licensed under the GNU General Public License v3.0.
+This project is licensed under the GNU Lesser General Public License v3.0.
